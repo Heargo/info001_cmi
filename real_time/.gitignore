@@ -1,0 +1,14 @@
+env/*
+!env/.gitkeep
+face/*
+!face/.gitkeep
+build
+dist
+videos
+old
+dataset
+dataset_age
+dataset_genre
+model_emotions
+model_age
+real_time_models.zip
